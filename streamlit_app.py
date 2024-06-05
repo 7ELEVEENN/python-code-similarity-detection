@@ -1,7 +1,7 @@
 import streamlit as st
 
 
-st.sidebar.image("logo.png")
+st.sidebar.image("logo.jpg")
 
 # Add "About" section to the sidebar
 st.sidebar.header("About")
